@@ -1,2 +1,1 @@
-#Linux
-Vagrant
+Linux\n Vagrant
